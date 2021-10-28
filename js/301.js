@@ -14,7 +14,7 @@ console.log("vrijednost funckije sa parametrima (0,4)=", min(0, 4));
 console.log("vrijednost funckije sa parametrima (0,-4)=", min(0, -4));
 
 
-console.log("  ");
+console.log("  ");   // cisto da mi je pregledno kada izvrsavam funckije u pregledniku
 console.log("  ");
 
 
